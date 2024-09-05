@@ -1,7 +1,7 @@
-const estudante = "Caroline";
+const estudante = 'Caroline';
 
 if (1 > 0) {
   console.log(estudante);
 }
 
-console.log("123");
+console.log(estudante); 
